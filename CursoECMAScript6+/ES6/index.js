@@ -15,3 +15,13 @@ function newFunction2 (name = 'camora', age = 32, country = 'CO') {
 
 newFunction2();
 newFunction2('valentina', 16, 'CO');
+
+// template literals
+
+let hello = 'hello';
+let world = " world";
+
+let epicPhrase = hello + ' ' + world;
+console.log(epicPhrase);
+
+let epicPhrase2 = ``

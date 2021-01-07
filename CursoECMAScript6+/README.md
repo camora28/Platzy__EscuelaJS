@@ -31,5 +31,8 @@ ES10
 - Object.fromEntries() lo inverso a Object.entries(), es decir podemos convertir un objeto en una matriz clave/valor con Object.entries(), y hace lo inverso es decir de una matriz clave/valor a un objeto con Object.fromEntries().
 
 - Symbol.prototype.description: permite regresar el descripcion opcional del Symbol
+
 https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Symbol/description
+
+## 11. TC39 y Cierre del curso
 
